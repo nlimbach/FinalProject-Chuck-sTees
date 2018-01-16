@@ -1,0 +1,32 @@
+a#navLogo{
+    font-size: 62px;
+    color: #0d47a1;
+    text-align: center;
+    display:block;
+    padding-top:15px;
+}
+
+nav{
+    height:150px;
+    background-color: white;
+}
+
+nav ul li {
+    display:inline-block;
+    float:none;
+    color:black;
+}
+
+.navUl{
+    text-align: center;
+}
+
+.navLinks{
+    color: black;
+}
+
+.navLinks:hover{
+    color: navy;
+    background-color: transparent;
+}
+
