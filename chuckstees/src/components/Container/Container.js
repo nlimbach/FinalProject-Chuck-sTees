@@ -5,6 +5,7 @@ import SignUpCard from '../SignUpCard/SignUpCard';
 import AboutCard from '../AboutCard/AboutCard';
 import LoginCard from '../LoginCard/LoginCard';
 import Grid from '../Grid/Grid';
+import Button from '../Button/Button';
 import SocialIcons from '../Social_icons/SocialIcons';
 
 
@@ -13,7 +14,7 @@ const Container = () => (
         <Nav/>
         <div className="pageImage z-depth-5">
             <div className="container">
-                <Grid/>
+                <Button/>
             </div>
             <div>
 

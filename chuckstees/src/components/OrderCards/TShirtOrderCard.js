@@ -17,7 +17,7 @@ const TShirtOrderCard = () => (
                 I am convenient because I require little markup to use effectively.</p>
         </div>
         <div className="card-action">
-            <ul>
+            <ul className="color-list center">
                 <li className="thumb"><a href="#"><img src={brownThumb} id="brown"/></a></li>
                 <li className="thumb"><a href="#"><img src={navyThumb} id="navy"/></a></li>
                 <li className="thumb"><a href="#"><img src={greenThumb} id="green"/></a></li>

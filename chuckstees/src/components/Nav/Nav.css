@@ -19,6 +19,7 @@ a#navLogo{
 
 .nav-center ul li a {
     display: inline-block;
+    font-size:18px;
 }
 
 .navLinks{

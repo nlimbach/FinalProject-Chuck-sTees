@@ -5,3 +5,7 @@
 .thumb{
     display: inline-block;
 }
+
+ul .color-list{
+    padding-left: 10%;
+}

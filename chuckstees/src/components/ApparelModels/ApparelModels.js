@@ -4,7 +4,7 @@ import blackModel from "./images/black_model_resized.jpg";
 
 const ApparelModels = () => (
     <div className="card" id="modelCard">
-        <img src={blackModel}/>;
+        <img id="blackModelImage" src={blackModel}/>
     </div>
 );
 
